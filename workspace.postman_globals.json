@@ -1,0 +1,45 @@
+{
+	"id": "0f93c7b2-cb89-4722-884c-d0a10a5f65ba",
+	"values": [
+		{
+			"key": "Globvar1",
+			"value": " https://reqres.in",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Globvar2",
+			"value": "/api/users",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "globalvar3",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "orderId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "mockserverURL",
+			"value": "https://64b99f86-f569-4195-9283-1cc12c01f1ce.mock.pstmn.io",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "globalvar4",
+			"value": "https://reqres.in/api/users",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2023-04-26T14:40:12.957Z",
+	"_postman_exported_using": "Postman/10.13.4"
+}
